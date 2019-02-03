@@ -1,15 +1,15 @@
 import React from 'react';
+import './Article.css';
 
-const Article = (props) => ( <
-    div >
-    <
-    h1 > { props.title } < /h1> <
-    h4 > { props.date } < /h4> <
-    h4 > { props.author } < /h4> <
-    hr / >
-    <
-    p > { props.children } < /p> < /
-    div >
+const Article = (props) => ( 
+    <div>
+        <h1 class="headline"> { props.title } </h1> 
+        <a rel={props.author} href="/author">{ props.author }</a>
+        <br/>
+        <time datetime="2018-11-22"> { props.date } </time> 
+        <hr/>
+        <article> { props.children } </article> 
+    </div>
 );
 
 export default Article;
