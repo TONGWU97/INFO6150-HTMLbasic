@@ -25,7 +25,7 @@ class App extends Component {
 
             <p> But visitors will be able to see the original 3,600 - pound torch in all its glory at a new Statue of Liberty Museum, which will open on Liberty Island in May 2019. The torch was transported there by truck last week, along with a replica model of Lady Liberty's face.</p>
 
-            <p> <em> "Although it is not one of the most difficult things we have ever moved," </em>says Douglas Phelps, who oversaw the relocation of the torch, <em> "it is certainly the most important." </em> </p>
+            <p> <em> <q>"Although it is not one of the most difficult things we have ever moved," </q></em>says Douglas Phelps, who oversaw the relocation of the torch, <em> <q>"it is certainly the most important." </q></em> </p>
 
             <p> Not only is the Statue of Liberty the symbol of New York City, she is also a <a href = "https://whc.unesco.org/en/list/307"> UNESCO World Heritage site </a> under the designation of <strong> "Outstanding Universal Value." </strong > </p>
 
@@ -37,9 +37,9 @@ class App extends Component {
 
             <p> Since then, the statue has served as a symbol of hope and possibility for many people who entered the United States as immigrants via neighboring Ellis Island. </p>
 
-            <p> <em> "The original torch is a beautiful object of art and exemplifies the American ideals of freedom and democracy," </em> says John Piltzecker, superintendent of the Statue of Liberty National Monument.That symbolic spirit was bolstered by the decision to inscribe Emma Lazarus ' poem <a href="https://www.poetryfoundation.org/poems/46550/the-new-colossus">"The New Colossus"</a> on the statue's pedestal, which gave Lady Liberty one of her nicknames, "Mother of Exiles." </p>
+            <p> <em> <q>"The original torch is a beautiful object of art and exemplifies the American ideals of freedom and democracy,"</q> </em> says John Piltzecker, superintendent of the Statue of Liberty National Monument.That symbolic spirit was bolstered by the decision to inscribe Emma Lazarus ' poem <a href="https://www.poetryfoundation.org/poems/46550/the-new-colossus">"The New Colossus"</a> on the statue's pedestal, which gave Lady Liberty one of her nicknames, "Mother of Exiles." </p>
 
-            <p> The most famous lines in the poem are: <em> "Give me your tired, your poor / Your huddled masses yearning to breathe free." </em> </p>
+            <p> The most famous lines in the poem are: <em> <q>"Give me your tired, your poor / Your huddled masses yearning to breathe free."</q> </em> </p>
 
             <p> In 2017, nearly <strong> 4.5 million </strong> people visited Liberty Island. </p>
 
